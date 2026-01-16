@@ -1,2 +1,2 @@
 # presentations
-Presentations
+Speaker sessions and other presentations
